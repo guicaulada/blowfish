@@ -1,7 +1,7 @@
 {
   "name": "@sighmir/blowfish",
   "description": "Blowfish encryption in TypeScript with custom schedule",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Guilherme Caulada",
   "license": "GPL-3.0",
   "main": "dist/index.js",
